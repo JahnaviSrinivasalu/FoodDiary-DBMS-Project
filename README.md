@@ -1,4 +1,4 @@
-# FoodDiary-DBMS-Project
+Web Application built using Python, Flask, SQlite, Visual Studio Code, HTML, CSS.
 
 The Food Diary is a Flask and SQLite-based web application designed to help users track their daily food intake. It allows users to add, update, and delete food items while storing their nutritional values 
 such as carbohydrates, protein, and fat in a database.
